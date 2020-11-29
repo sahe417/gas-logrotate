@@ -1,7 +1,7 @@
 //バックアップ元ファイルID
 const FILE_ID = '<ファイルID>';
 //バックアップ先フォルダー名
-const DIR_NAME = 'org'
+const DIR_NAME = '<フォルダー名>'
 //スプレッドシート名
 const SHEET_NAME = 'DATA'
 //バックアップ・ローテーションを実行する行数
